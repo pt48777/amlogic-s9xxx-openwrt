@@ -6273,6 +6273,7 @@ CONFIG_OPENCONNECT_GNUTLS=y
 # CONFIG_PACKAGE_openvpn-easy-rsa is not set
 # CONFIG_PACKAGE_openvpn-mbedtls is not set
 # CONFIG_PACKAGE_openvpn-openssl is not set
+CONFIG_PACKAGE_openvpn-openssl=y
 # CONFIG_PACKAGE_openvpn-wolfssl is not set
 # CONFIG_PACKAGE_pptpd is not set
 # CONFIG_PACKAGE_softethervpn-base is not set
@@ -6727,7 +6728,9 @@ CONFIG_PACKAGE_samba4-utils=y
 # CONFIG_PACKAGE_tac_plus-pam is not set
 # CONFIG_PACKAGE_tayga is not set
 # CONFIG_PACKAGE_tcpdump is not set
+CONFIG_PACKAGE_tcpdump=y
 # CONFIG_PACKAGE_tcpdump-mini is not set
+CONFIG_PACKAGE_tcpdump-mini=y
 # CONFIG_PACKAGE_telnet-bsd is not set
 # CONFIG_PACKAGE_tgt is not set
 # CONFIG_PACKAGE_tmate-ssh-server is not set
